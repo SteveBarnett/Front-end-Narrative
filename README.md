@@ -20,3 +20,22 @@ Things the codeXers want to know.
 * Web app patterns
   * MVC, etc.
 * Hamburger icons  
+
+## UCD process
+
+![](img/ucd-process.jpg)
+
+* Plan
+  * Product Discovery
+    * Personas
+    * User Journey Map
+* Design
+  * Sketches
+  * Prototypes
+  * User Testing
+  * Style Tiles
+* Build
+  * Front-end Style Guide
+* Measure
+  * Analytics
+  * User Testing
